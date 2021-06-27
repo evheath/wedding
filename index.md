@@ -21,4 +21,6 @@ Tina's parents are generously hosting the whole shabang on [their property in Ma
 
 There's a lake for swimming/kayaking and even a [campground if you want to stay on site](./lodging.html).
 
-<!-- [back](./) -->
+## Is there a gift registry?
+
+**No gifts please.** If you insist on flexing your wealth, feel free to [donate to our honeymoon gofundme](https://gofund.me/cd2cff93).
