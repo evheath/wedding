@@ -21,11 +21,11 @@ Tina's parents are generously hosting the whole shabang on [their property in Ma
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d23018.38694595985!2d-89.9595325!3d43.8496441!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8800abbb6d1552db%3A0x50edf031c2941607!2s5495%20County%20Rd%20HH%2C%20Mauston%2C%20WI%2053948!5e0!3m2!1sen!2sus!4v1624811130434!5m2!1sen!2sus" width="250" height="250" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
 
-There's a lake for swimming/kayaking and even a [small campground if you want to stay on site](./lodging.html).
+There's a lake for swimming/kayaking and even a [small campground if you want to stay on location](./lodging.html).
 
 ## Is there a gift registry?
 
-**No gifts please.** If you insist on flexing your wealth, feel free to [donate to our honeymoon gofundme](https://gofund.me/cd2cff93). Otherwise, celebrating with friends and family will be gift enough.
+**No gifts please.** We already have a nice home filled with everything we need 😃. We realize this wedding is likely to incur many travel expenses, so we don't want to shake our friends and family down for cast iron pans etc. If you insist on flexing your wealth, feel free to [donate to our honeymoon gofundme](https://gofund.me/cd2cff93). However that is completely optional; celebrating with friends and family will be gift enough.
 
 ## Can I bring my dogs/children?
 
