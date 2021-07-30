@@ -4,8 +4,4 @@ layout: default
 
 # The venue
 
-
-
-Tina's parents!
-
-[back](./)
+![Venue1](/assets/img/venue1.jpg){:class="img-responsive"}
