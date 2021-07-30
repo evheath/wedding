@@ -6,13 +6,9 @@ layout: default
 
 ## When is the wedding?
 
-July 30, 2022 
+July 30th, 2022 
 
 ![Calendar](/assets/img/calendar.png)
-
-## What is the dress code?
-
-**Extremely** casual. This will be an _outdoor_ _summertime_ wedding in rural Wisconsin, so dress to beat the heat. Also, don't forget to bring a swimsuit! 👙 🩳 🩱 
 
 ## Where is the ceremony/reception?
 
@@ -23,6 +19,10 @@ Tina's parents are generously hosting the whole shabang on [their property in Ma
 There's a lake for swimming/kayaking and even a [small campground if you want to stay on location](./lodging.html).
 
 If you'd like to see some pictures of the place [click here](/venue.html)
+
+## What is the dress code?
+
+**Extremely** casual. This will be an _outdoor_ _summertime_ wedding in rural Wisconsin, so dress to beat the heat. Also, don't forget to bring a swimsuit! 👙 🩳 🩱 
 
 ## Is there a gift registry?
 
