@@ -6,11 +6,13 @@ layout: default
 
 ## When is the wedding?
 
-Summer 2022, exact date TBD
+July 30, 2022 
+
+![Calendar](/assets/img/calendar.png)
 
 ## What is the dress code?
 
-**Extremely** casual. This will be a _summertime_ outdoor wedding in rural Wisconsin, so dress to beat the heat. Also, don't forget to bring a swimsuit! 👙 🩳 🩱 
+**Extremely** casual. This will be an _outdoor_ _summertime_ wedding in rural Wisconsin, so dress to beat the heat. Also, don't forget to bring a swimsuit! 👙 🩳 🩱 
 
 ## Where is the ceremony/reception?
 
