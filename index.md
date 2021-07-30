@@ -22,7 +22,7 @@ If you'd like to learn more about the venue [click here.](/venue.html)
 
 ## What is the dress code?
 
-**Extremely** casual. This will be an _outdoor_ _summertime_ wedding in rural Wisconsin, so dress to beat the heat. Also, don't forget to bring a swimsuit! 👙 🩳 🩱 
+**Extremely** casual. This will be an _outdoor_ _summertime_ wedding in rural Wisconsin, so dress to beat the heat. Don't be the guy who shows up in a fancy suit--we might be forced to throw you in the lake. Which reminds me: don't forget to bring a swimsuit! 👙 🩳 🩱 
 
 ## Is there a gift registry?
 
