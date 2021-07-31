@@ -1,5 +1,6 @@
 {
   "scripts": {
-    "serve": "bundle exec jekyll serve"
+    "serve": "bundle exec jekyll serve",
+    "deploy": "firebase deploy"
   }
 }
