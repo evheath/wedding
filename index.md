@@ -22,7 +22,7 @@ Tina's parents are generously hosting the whole shabang on their property in Mau
 
 There's a lake for swimming/kayaking and even a [small campground if you want to stay on location](./lodging.html).
 
-If you'd like to learn more about the venue [click here.](/venue.html)
+If you'd like to see some pictures of the venue [click here.](/venue.html)
 
 ## What is the dress code?
 
