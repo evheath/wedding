@@ -7,20 +7,20 @@ layout: default
 
 <!-- <img id="myimg"> -->
 
-<script src="https://www.gstatic.com/firebasejs/8.8.1/firebase-app.js"></script>
-<script src="https://www.gstatic.com/firebasejs/8.8.1/firebase-storage.js"></script>
+<!-- <script src="https://www.gstatic.com/firebasejs/8.8.1/firebase-app.js"></script>
+<script src="https://www.gstatic.com/firebasejs/8.8.1/firebase-storage.js"></script> -->
 <script>
   // console.log("start");
-  var firebaseConfig = {
-    apiKey: "AIzaSyA05ANqcrmkv-zGgo35y-mGyEwM42UkPlM",
-    authDomain: "elliotandtina.firebaseapp.com",
-    projectId: "elliotandtina",
-    storageBucket: "elliotandtina.appspot.com",
-    messagingSenderId: "1090811861387",
-    appId: "1:1090811861387:web:e00d750cacf1002d7fb78e"
-  };
+  // var firebaseConfig = {
+  //   apiKey: "AIzaSyA05ANqcrmkv-zGgo35y-mGyEwM42UkPlM",
+  //   authDomain: "elliotandtina.firebaseapp.com",
+  //   projectId: "elliotandtina",
+  //   storageBucket: "elliotandtina.appspot.com",
+  //   messagingSenderId: "1090811861387",
+  //   appId: "1:1090811861387:web:e00d750cacf1002d7fb78e"
+  // };
   // Initialize Firebase
-  firebase.initializeApp(firebaseConfig);
+  // firebase.initializeApp(firebaseConfig);
   var storage = firebase.storage();
   // var pathReference = storage.ref('venue/bridge1.JPG');
   // pathReference.getDownloadURL()
